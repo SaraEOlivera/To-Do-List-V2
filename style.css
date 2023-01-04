@@ -1,0 +1,39 @@
+html,
+body {
+    margin: 0 auto;
+    width: 350px;
+    font-family: 'Courier New', Courier, monospace
+}
+
+.container {
+    width: 360px;
+}
+
+.newTask {
+    width: 300px;
+    height: 35px;
+    border-width: 0;
+    font-size: 18px;
+    outline: none;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+
+.btn {
+    width: 50px;
+    height: 40px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+.tareasGuardadas {
+    cursor: pointer;
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+}
+
+.toDoTasks {
+    margin-top: 25px;
+}
